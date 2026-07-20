@@ -1,0 +1,1 @@
+# Script-Hospital-de-anomalias
